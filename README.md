@@ -4,7 +4,8 @@
 
 
 _Mg. Yanina Saibene Bellini - INTA Anguil_
-_Dra. Maria Florencia D'Andrea - Instituto de Recursos Biológicos _
+
+_Dra. Maria Florencia D'Andrea - Instituto de Recursos Biológicos_
 
 <img src="https://github.com/flor14/r_inta/blob/master/logointa.jpg?raw=TRUE" width="50" height="50">  
 
@@ -33,18 +34,17 @@ En breve
 * [Thieme, N. (2018). R generation. Significance, 15(4), 14–19. 
 ](https://rss.onlinelibrary.wiley.com/doi/10.1111/j.1740-9713.2018.01169.x)
 * 
-
-
- ## Comunidades
+## Comunidades
  
  * [R-Ladies Global](https://rladies.org/) 
- * [R-Ladies Buenos Aires](https://rladies.org/) 
+ * [R-Ladies Buenos Aires](https://twitter.com/rladiesba?lang=es) 
+ * [R-Ladies Santa Rosa](https://twitter.com/RLadiesSR) 
  * [R en Buenos Aires](https://renbaires.github.io/)
  * [ROpenSci](https://ropensci.org/)
- * [R4DS]()
+ * [R4DS en Español](https://twitter.com/r4ds_es?lang=es)
  * [The Carpentries](https://carpentries.org/)
  
- ## Congresos regionales
+## Congresos regionales
  
  * [LatinR](www.latin-r.com)
  * [Congreso Argentino de Agroinformática](http://48jaiio.sadio.org.ar/simposios/CAI)
