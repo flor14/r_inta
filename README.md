@@ -1,9 +1,9 @@
 ## R para análisis científicos reproducibles
 #### Elige tu propio camino
 
- <img src="https://github.com/flor14/r_inta/blob/master/logointa.jpg?raw=TRUE" width="50" height="50">  
- Instituto Nacional de Tecnología Agropecuaria (INTA) 
- 6 de agosto de 2019
+<img src="https://github.com/flor14/r_inta/blob/master/logointa.jpg?raw=TRUE" width="50" height="50">  
+*Instituto Nacional de Tecnología Agropecuaria (INTA)* 
+6 de agosto de 2019
 
 El lenguaje de programación R se ha vuelto popular. La oferta de cursos ha aumentado exponencialmente a la par de la cantidad de paquetes y recursos disponibles. Entonces nos preguntamos: 
 
@@ -17,7 +17,8 @@ En este curso de una jornada presentaremos algunos conceptos básicos del lengua
 
 También nos parece una buena oportunidad para conocer y conectar la comunidad de usuarios de R del CNIA. 
 
-Para una mejor experiencia sugerimos acercarse con una computadora personal con R y R-Studio instalados (pero esto no es excluyente). ¿Cómo instalar R y RStudio? Información en este [Link](https://github.com/pachamaltese/tutoriales/blob/master/2019-04-24-instalar-r.md) para distintos sistemas operativos.
+### ¿Cómo instalar R y RStudio? 
+Para una mejor experiencia sugerimos acercarse con una computadora personal con R y R-Studio instalados (pero esto no es excluyente). Información en este [Link](https://github.com/pachamaltese/tutoriales/blob/master/2019-04-24-instalar-r.md) para distintos sistemas operativos.
 
 
 
