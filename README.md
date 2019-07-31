@@ -1,5 +1,8 @@
-## R para análisis científicos reproducibles
+# R para análisis científicos reproducibles
 #### Elige tu propio camino
+
+_Mg. Yanina Saibene Bellini - INTA Anguil_
+_Dra. Maria Florencia D'Andrea - Instituto de Recursos Biológicos _
 
 <img src="https://github.com/flor14/r_inta/blob/master/logointa.jpg?raw=TRUE" width="50" height="50">  
 *Instituto Nacional de Tecnología Agropecuaria (INTA)* 
@@ -22,6 +25,7 @@ Para una mejor experiencia sugerimos acercarse con una computadora personal con 
 
 ## Material del curso
 #### Filminas
+
 En breve
 
 #### Links de interés
@@ -31,5 +35,20 @@ En breve
 * 
 
 
+ ## Comunidades
+ 
+ * [R-Ladies Global](https://rladies.org/) 
+ * [R-Ladies Buenos Aires](https://rladies.org/) 
+ * [R en Buenos Aires](https://renbaires.github.io/)
+ * [ROpenSci](https://ropensci.org/)
+ * [R4DS]()
+ * [The Carpentries](https://carpentries.org/)
+ 
+ ## Congresos regionales
+ 
+ * [LatinR](www.latin-r.com)
+ * [Congreso Argentino de Agroinformática](http://48jaiio.sadio.org.ar/simposios/CAI)
+ 
+ 
 
 
