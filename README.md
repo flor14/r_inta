@@ -2,7 +2,7 @@
 #### Elige tu propio camino
 
 <img src="https://github.com/flor14/r_inta/blob/master/logointa.jpg?raw=TRUE" width="50" height="50">  
-*Instituto Nacional de Tecnología Agropecuaria (INTA)* 
+**Instituto Nacional de Tecnología Agropecuaria (INTA)** 
 6 de agosto de 2019
 
 El lenguaje de programación R se ha vuelto popular. La oferta de cursos ha aumentado exponencialmente a la par de la cantidad de paquetes y recursos disponibles. Entonces nos preguntamos: 
