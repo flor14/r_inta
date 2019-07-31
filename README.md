@@ -1,7 +1,7 @@
 ## R para análisis científicos reproducibles
 #### Elige tu propio camino
 
- <img src="https://github.com/flor14/r_inta/blob/master/logointa.jpg" width="50" height="50">  
+ <img src="https://github.com/flor14/r_inta/blob/master/logointa.jpg?raw=TRUE" width="50" height="50">  
  Instituto Nacional de Tecnología Agropecuaria (INTA) 
  6 de agosto de 2019
 
