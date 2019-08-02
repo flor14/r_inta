@@ -1,16 +1,18 @@
 # R para análisis científicos reproducibles
 #### Elige tu propio camino
-6 de agosto de 2019
+9 a 15.30 hs. Martes 6 de agosto de 2019 
 
+Auditorio del Jardín Botánico del CNIA
 
+<img src="https://github.com/flor14/r_inta/blob/master/logointa.jpg?raw=TRUE" width="50" height="50">  
+----------
 _Mg. Yanina Bellini Saibene - [INTA Anguil.](https://inta.gob.ar/personas/bellini.yanina)_ 
 <a href="https://twitter.com/yabellini" class="twitter-follow-button" data-show-count="false">Twitter</a>
 
 _Dra. Maria Florencia D'Andrea - [Instituto de Recursos Biológicos.](https://inta.gob.ar/personas/dandrea.florencia)_
 <a href="https://twitter.com/cantoflor_87" class="twitter-follow-button" data-show-count="false">Twitter</a>
 
-<img src="https://github.com/flor14/r_inta/blob/master/logointa.jpg?raw=TRUE" width="50" height="50">  
-
+----------
  El lenguaje de programación R se ha vuelto popular. La oferta de cursos ha aumentado exponencialmente a la par de la cantidad de paquetes y recursos disponibles. Entonces nos preguntamos: 
 
 > ¿Cuán necesario es adoptar R en nuestro flujo de trabajo? 
