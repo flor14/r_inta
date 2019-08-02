@@ -4,10 +4,10 @@
 
 
 _Mg. Yanina Saibene Bellini - [INTA Anguil.](https://inta.gob.ar/personas/bellini.yanina)_ 
-Twitter: <a href="https://twitter.com/TwitterDev?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">@yabellini</a>
+<a href="https://twitter.com/yabellini" class="twitter-follow-button" data-show-count="false">Twitter</a>
 
 _Dra. Maria Florencia D'Andrea - [Instituto de Recursos Biológicos.](https://inta.gob.ar/personas/dandrea.florencia)_
-Twitter: <a href="https://twitter.com/TwitterDev?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">@cantoflor_87</a>
+<a href="https://twitter.com/cantoflor_87" class="twitter-follow-button" data-show-count="false">Twitter</a>
 
 <img src="https://github.com/flor14/r_inta/blob/master/logointa.jpg?raw=TRUE" width="50" height="50">  
 
