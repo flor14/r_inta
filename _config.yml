@@ -1,1 +1,12 @@
 theme: jekyll-theme-minimal
+docs:
+  - title: 
+    children: "R en INTA"
+      - title: "Instalar R y R-Studio"
+        url: /docs/r/
+      - title: "Material del curso"
+        url: /docs/material/
+      - title: "Comunidades"
+        url: /docs/installation/
+      - title: "Congresos regionales"
+        url: /docs/congresos/
