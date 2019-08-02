@@ -28,7 +28,7 @@ _Dra. Maria Florencia D'Andrea - [Instituto de Recursos Biológicos.](https://in
  
 ## Cronograma
 
-<img src="https://github.com/flor14/r_inta/blob/master/mapaderuta.png?raw=TRUE" width="100" height="100">  
+<img src="https://github.com/flor14/r_inta/blob/master/mapaderuta.png?raw=TRUE" width="650" height="350">  
 
 ## Material del curso
 #### Filminas
