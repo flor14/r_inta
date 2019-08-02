@@ -5,7 +5,9 @@
 Auditorio del Jardín Botánico del CNIA
 
 <img src="https://github.com/flor14/r_inta/blob/master/logointa.jpg?raw=TRUE" width="50" height="50">  
+
 ----------
+
 _Mg. Yanina Bellini Saibene - [INTA Anguil.](https://inta.gob.ar/personas/bellini.yanina)_ 
 <a href="https://twitter.com/yabellini" class="twitter-follow-button" data-show-count="false">Twitter</a>
 
