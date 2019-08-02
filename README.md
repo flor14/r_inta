@@ -25,6 +25,10 @@ _Dra. Maria Florencia D'Andrea - [Instituto de Recursos Biológicos.](https://in
 
 #### ¿Cómo instalar R y RStudio? 
  Para una mejor experiencia sugerimos acercarse con una computadora personal con R y R-Studio instalados (pero esto no es excluyente). Información en este [Link](https://github.com/pachamaltese/tutoriales/blob/master/2019-04-24-instalar-r.md) para distintos sistemas operativos.
+ 
+## Cronograma
+
+<img src="https://github.com/flor14/r_inta/blob/master/mapaderuta.png?raw=TRUE" width="100" height="100">  
 
 ## Material del curso
 #### Filminas
