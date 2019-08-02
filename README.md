@@ -23,15 +23,15 @@ _Dra. Maria Florencia D'Andrea - [Instituto de Recursos Biológicos.](https://in
  En este curso de una jornada presentaremos algunos conceptos básicos del lenguaje y hablaremos sobre organización, limpieza y visualización de datos así como de la reproducibilidad de nuestro trabajo. 
 
  También nos parece una buena oportunidad para conocer y conectar la comunidad de usuarios de R del CNIA. 
-
-#### ¿Cómo instalar R y RStudio? 
- Para una mejor experiencia sugerimos acercarse con una computadora personal con R y R-Studio instalados (pero esto no es excluyente). Información en este [Link](https://github.com/pachamaltese/tutoriales/blob/master/2019-04-24-instalar-r.md) para distintos sistemas operativos.
  
 ## Cronograma
 
 <img src="https://github.com/flor14/r_inta/blob/master/mapaderuta.png?raw=TRUE">  
 
 ## Material del curso
+#### ¿Cómo instalar R y RStudio? 
+ Para una mejor experiencia sugerimos acercarse con una computadora personal con R y R-Studio instalados (pero esto no es excluyente). Información en este [Link](https://github.com/pachamaltese/tutoriales/blob/master/2019-04-24-instalar-r.md) para distintos sistemas operativos.
+ 
 #### Filminas
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /> Las filminas y código asociado se encuentran bajo licencia<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
