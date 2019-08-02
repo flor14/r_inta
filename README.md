@@ -1,10 +1,7 @@
 # R para análisis científicos reproducibles
 #### Elige tu propio camino
-9 a 15.30 hs. Martes 6 de agosto de 2019 
-
+9 a 15.30 hs. Martes 6 de agosto de 2019 - 
 Auditorio del Jardín Botánico del CNIA
-
-<img src="https://github.com/flor14/r_inta/blob/master/logointa.jpg?raw=TRUE" width="50" height="50">  
 
 ----------
 
