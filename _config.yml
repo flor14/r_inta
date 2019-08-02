@@ -3,10 +3,10 @@ docs:
   - title: 
     children: "R en INTA"
       - title: "Instalar R y R-Studio"
-        url: /docs/r/
+        url: /r/
       - title: "Material del curso"
-        url: /docs/material/
+        url: /material/
       - title: "Comunidades"
-        url: /docs/installation/
+        url: /installation/
       - title: "Congresos regionales"
-        url: /docs/congresos/
+        url: /congresos/
