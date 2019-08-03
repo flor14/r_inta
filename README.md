@@ -35,8 +35,13 @@ _Dra. Maria Florencia D'Andrea - [Instituto de Recursos Biológicos.](https://in
 #### Filminas
 
 [1]()r y rstudio - paquetes - tidyverse - dataframe
+
 [2]()ordenamiento de datos
+
 [3]()visualización de datos y reportes
+
+[reporte]() encuesta CNIA
+
 [4]()ciencia reproducible y buenas prácticas de código
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /> Las filminas y código asociado se encuentran bajo licencia<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
