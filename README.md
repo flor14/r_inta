@@ -48,7 +48,7 @@ _Dra. Maria Florencia D'Andrea - [Instituto de Recursos Biológicos.](https://in
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /> Las filminas y código asociado se encuentran bajo licencia <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
 
-#### Links de interés
+#### Referencias principales
 
 * [Thieme, N. (2018). R generation. Significance, 15(4), 14–19. 
 ](https://rss.onlinelibrary.wiley.com/doi/10.1111/j.1740-9713.2018.01169.x)
@@ -64,7 +64,7 @@ _Dra. Maria Florencia D'Andrea - [Instituto de Recursos Biológicos.](https://in
  * [R-Ladies Global](https://rladies.org/) 
  * [R-Ladies Buenos Aires (twitter)](https://twitter.com/rladiesba?lang=es) 
  * [R-Ladies Santa Rosa (twitter)](https://twitter.com/RLadiesSR) 
- * [R-Spatial (grupo de Telegram)](https://web.telegram.org/#/im?p=@rspatial_es)
+ * [R-Spatial en español (grupo de Telegram)](https://web.telegram.org/#/im?p=@rspatial_es)
  * [R en Buenos Aires](https://renbaires.github.io/)
  * [ROpenSci](https://ropensci.org/)
  * [R4DS en Español (twitter)](https://twitter.com/r4ds_es?lang=es)
