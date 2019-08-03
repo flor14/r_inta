@@ -36,13 +36,16 @@ _Dra. Maria Florencia D'Andrea - [Instituto de Recursos Biológicos.](https://in
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /> Las filminas y código asociado se encuentran bajo licencia<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
 
-
-
 #### Links de interés
 
 * [Thieme, N. (2018). R generation. Significance, 15(4), 14–19. 
 ](https://rss.onlinelibrary.wiley.com/doi/10.1111/j.1740-9713.2018.01169.x)
-* Hola
+* [Paquetes](http://r-pkgs.had.co.nz)
+* [Bryan, J. Happy Git with R]()
+* [Bryan, J. What they forgot to teach you about R](https://whattheyforgot.org/)
+* [R para Ciencia de Datos](https://es.r4ds.hadley.nz/)
+* [Marwick B.,  Boettiger C. & Mullen L. (2018) Packaging Data  Analytical Work Reproducibly Using R (and Friends), The American Statistician, 72:1, 80-88](https://www.tandfonline.com/doi/full/10.1080/00031305.2017.1375986)
+* [Guía de Estilo](https://style.tidyverse.org/)
 
 ## Comunidades
  
@@ -64,5 +67,6 @@ _Dra. Maria Florencia D'Andrea - [Instituto de Recursos Biológicos.](https://in
 
 Te pedimos si pudieses contestar esta breve encuesta como devolución del curso. ¡Gracias por asistir!
 [Encuesta final]()
+
 
 
