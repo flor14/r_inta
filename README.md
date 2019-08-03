@@ -72,7 +72,7 @@ _Dra. Maria Florencia D'Andrea - [Instituto de Recursos Biológicos.](https://in
  
 ## Congresos regionales
  
- * [LatinR](www.latin-r.com)
+ * [LatinR](latin-r.com)
  * [Congreso Argentino de Agroinformática](http://48jaiio.sadio.org.ar/simposios/CAI)
  
 ## Encuesta final
