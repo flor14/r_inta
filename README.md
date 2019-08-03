@@ -67,7 +67,7 @@ _Dra. Maria Florencia D'Andrea - [Instituto de Recursos Biológicos.](https://in
  * [R-Spatial (grupo de Telegram)](https://web.telegram.org/#/im?p=@rspatial_es)
  * [R en Buenos Aires](https://renbaires.github.io/)
  * [ROpenSci](https://ropensci.org/)
- * [R4DS en Español](https://twitter.com/r4ds_es?lang=es)
+ * [R4DS en Español (twitter)](https://twitter.com/r4ds_es?lang=es)
  * [The Carpentries](https://carpentries.org/)
  
 ## Congresos regionales
