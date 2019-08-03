@@ -14,8 +14,10 @@ _Dra. Maria Florencia D'Andrea - [Instituto de Recursos Biológicos.](https://in
 ----------
  El lenguaje de programación R se ha vuelto popular. La oferta de cursos ha aumentado exponencialmente a la par de la cantidad de paquetes y recursos disponibles. Entonces nos preguntamos: 
 
-> ¿Cuán necesario es adoptar R en nuestro flujo de trabajo? 
- ¿Existen usos de R no relacionados con la estadística?
+> ¿Cuán necesario es adoptar R en nuestro flujo de trabajo?
+
+> ¿Existen usos de R no relacionados con la estadística?
+ 
 > ¿Necesito formación especial para comenzar a emplearlo?
 
  Para responder estas preguntas te esperamos en el Salón de Actos del Jardín Botánico el 6 de agosto a las 9 a 15:30 hs para compartir una introducción a R para el análisis de datos reproducible.
