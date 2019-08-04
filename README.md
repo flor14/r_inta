@@ -59,6 +59,14 @@ _Dra. Maria Florencia D'Andrea - [Instituto de Recursos Biológicos.](https://in
 * [Marwick B.,  Boettiger C. & Mullen L. (2018) Packaging Data  Analytical Work Reproducibly Using R (and Friends), The American Statistician, 72:1, 80-88](https://www.tandfonline.com/doi/full/10.1080/00031305.2017.1375986)
 * [Guía de Estilo](https://style.tidyverse.org/)
 
+#### Sitios de consulta
+
+* [Data to Viz. Consejos para generar gráficos con código R](https://www.data-to-viz.com/) 
+* [R Cook Book BBC. Gráficos al estilo de la BBC](https://bbc.github.io/rcookbook) 
+* [R Graph Gallery. Ejemplos para generar gráficos con código R](https://www.r-graph-gallery.com/) 
+
+
+
 ## Comunidades
  
  * [R-Ladies Global](https://rladies.org/) 
