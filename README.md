@@ -78,7 +78,7 @@ _Dra. Maria Florencia D'Andrea - [Instituto de Recursos Biológicos.](https://in
 ## Encuesta final
 
 Te pedimos si pudieses contestar esta breve encuesta como devolución del curso. ¡Gracias por asistir!
-[Encuesta final]()
+[Encuesta final](https://forms.gle/LAhPfZjUyvV38BMv9)
 
 
 
