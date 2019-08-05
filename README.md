@@ -50,15 +50,14 @@ _Dra. Maria Florencia D'Andrea - [Instituto de Recursos Biológicos.](https://in
 
 #### Referencias principales
 
+* [Gandrud, C. (2016). Investigación reproducible con R y R studio. Chapman y Hall / CRC](https://github.com/christophergandrud/Rep-Res-Book)
+* [Ismay C, Kim A. (2019) Moderndive. Statistical Inference via Data Science. A moderndive into R and the tidyverse.](https://moderndive.com/)
+* [Marwick B.,  Boettiger C. & Mullen L. (2018) Packaging Data  Analytical Work Reproducibly Using R (and Friends), The American Statistician, 72:1, 80-88](https://www.tandfonline.com/doi/full/10.1080/00031305.2017.1375986)
 * [Thieme, N. (2018). R generation. Significance, 15(4), 14–19. 
 ](https://rss.onlinelibrary.wiley.com/doi/10.1111/j.1740-9713.2018.01169.x)
-* [Paquetes](http://r-pkgs.had.co.nz)
-* [Bryan, J. Happy Git with R]()
-* [Bryan, J. What they forgot to teach you about R](https://whattheyforgot.org/)
-* [R para Ciencia de Datos](https://es.r4ds.hadley.nz/)
-* [Marwick B.,  Boettiger C. & Mullen L. (2018) Packaging Data  Analytical Work Reproducibly Using R (and Friends), The American Statistician, 72:1, 80-88](https://www.tandfonline.com/doi/full/10.1080/00031305.2017.1375986)
-* [Guía de Estilo](https://style.tidyverse.org/)
-* [R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/)
+* [Xie, Y., Allaire, J. J., & Grolemund, G. (2018). R markdown: The definitive guide. Chapman and Hall/CRC.](https://bookdown.org/yihui/rmarkdown/)
+* [Wickham, H. (2015). R packages: organize, test, document, and share your code. " O'Reilly Media, Inc.".](http://r-pkgs.had.co.nz)
+* [Wickham, H., & Grolemund, G. (2016). R for data science: import, tidy, transform, visualize, and model data. " O'Reilly Media, Inc.". (EN ESPAÑOL)](https://es.r4ds.hadley.nz/)
 
 #### Sitios de consulta
 
@@ -68,7 +67,11 @@ _Dra. Maria Florencia D'Andrea - [Instituto de Recursos Biológicos.](https://in
 * [R Graph Gallery. Ejemplos para generar gráficos con código R](https://www.r-graph-gallery.com/) 
 * [Guía para chequear estilos de gráficos](https://datavizchecklist.stephanieevergreen.com/assets/DataVizChecklist_Feb2018.pdf)
 * [Paquete DataSaurus](https://cran.r-project.org/web/packages/datasauRus/vignettes/Datasaurus.html) 
-
+* [Guía de estilo de código](https://style.tidyverse.org/)
+* [Happy Git and GitHub for the useR - 
+Jenny Bryan, the STAT 545 TAs, Jim Hester](https://happygitwithr.com/)
+* [Bryan, J. What they forgot to teach you about R](https://whattheyforgot.org/)
+* [Bartlett, A. (2016) Git for Humans. Financial Times, Londres.](https://speakerdeck.com/alicebartlett/git-for-humans)
 
 
 ## Comunidades
