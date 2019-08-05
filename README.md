@@ -35,6 +35,7 @@ _Dra. Maria Florencia D'Andrea - [Instituto de Recursos Biológicos.](https://in
  Para una mejor experiencia sugerimos acercarse con una computadora personal con R y R-Studio instalados (pero esto no es excluyente). Información en este [Link](https://github.com/pachamaltese/tutoriales/blob/master/2019-04-24-instalar-r.md) para distintos sistemas operativos.
  
 #### Filminas
+_en breve_
 
 [parte 1]() r y rstudio - paquetes - tidyverse - dataframe
 
@@ -68,10 +69,9 @@ _Dra. Maria Florencia D'Andrea - [Instituto de Recursos Biológicos.](https://in
 * [Guía para chequear estilos de gráficos](https://datavizchecklist.stephanieevergreen.com/assets/DataVizChecklist_Feb2018.pdf)
 * [Paquete DataSaurus](https://cran.r-project.org/web/packages/datasauRus/vignettes/Datasaurus.html) 
 * [Guía de estilo de código](https://style.tidyverse.org/)
-* [Happy Git and GitHub for the useR - 
-Jenny Bryan, the STAT 545 TAs, Jim Hester](https://happygitwithr.com/)
-* [Bryan, J. What they forgot to teach you about R](https://whattheyforgot.org/)
-* [Bartlett, A. (2016) Git for Humans. Financial Times, Londres.](https://speakerdeck.com/alicebartlett/git-for-humans)
+* [Happy Git and GitHub for the useR - Jenny Bryan, the STAT 545 TAs, Jim Hester](https://happygitwithr.com/)
+* [What they forgot to teach you about R - Jenny Bryan](https://whattheyforgot.org/)
+* [Git for Humans](https://speakerdeck.com/alicebartlett/git-for-humans)
 
 
 ## Comunidades
