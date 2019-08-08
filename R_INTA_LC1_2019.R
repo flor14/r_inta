@@ -69,4 +69,5 @@ as.numeric(vector)
 
 # que ocurre? Esto podria pasarme cuando leo un dataset
 # es importante porque puede afectar el tipo de datos en 
-# las columnas de mi dataset ejemplo usando base de datos "muestreo dic 2012" 
+# las columnas de mi dataset.
+# Ejemplo usando base de datos "muestreo dic 2012" 
