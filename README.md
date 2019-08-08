@@ -42,11 +42,11 @@ _Dra. Maria Florencia D'Andrea - [Instituto de Recursos Biológicos.](https://in
 
 [parte 2](https://github.com/flor14/r_inta/blob/master/CursoR_parte2_INTA_2019.pdf?raw=TRUE) ordenamiento de datos
 
-[Código parte 2](https://github.com/flor14/r_inta/blob/master/R_INTA_LC2_2019.R)
+[Código parte 2](https://github.com/flor14/r_inta/blob/master/R_inta_LC2_2019.R)
 
 [parte 3](https://github.com/flor14/r_inta/blob/master/CursoR_parte3_INTA_2019_bis.pdf?raw=TRUE) visualización de datos y reportes
 
-[Código parte 3 (reporte RMarkdown)](https://github.com/flor14/r_inta/blob/master/R_INTA_LC3_2019.R) encuesta CNIA
+[Código parte 3 (reporte RMarkdown)](https://github.com/flor14/r_inta/blob/master/R_inta_LC3_2019.R) encuesta CNIA
 
 [Código parte 4](https://github.com/flor14/r_inta/blob/master/R_INTA_LC4_2019.R)  
 
