@@ -4,19 +4,16 @@
 library(ggplot2)
 library(dplyr)
 
-# Elimino los datos hago esto para no usar todos los datos 
-# y que no tarde tanto en cargar es solo un ejemplo
-
 diam_1500 <- diamonds %>%
   filter(cut == "Ideal" & price > 15000)
 
-# Realizo un gr·fico con ggplot2 
+# Realizo un gr√°fico con ggplot2 
 
 ggplot(diam_1500)+
   geom_point(aes(x = carat, y = price, color = clarity))
 
 #### PLOTLY: Graficos interactivos ####
-# uso la funcion ggplotly() en el gr·fico anterior
+# uso la funcion ggplotly() en el gr√°fico anterior
 
 library(plotly)
 
