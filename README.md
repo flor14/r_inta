@@ -48,7 +48,7 @@ _Dra. Maria Florencia D'Andrea - [Instituto de Recursos Biológicos.](https://in
 
 [Código parte 3 (reporte RMarkdown)](https://github.com/flor14/r_inta/blob/master/R_INTA_LC3_2019.R) encuesta CNIA
 
-[Código parte 4](https://github.com/flor14/r_inta/blob/master/R_INTA_LC4_2019.R?raw=TRUE) encuesta CNIA 
+[Código parte 4](https://github.com/flor14/r_inta/blob/master/R_INTA_LC4_2019.R?raw=TRUE)  
 
 [parte 4](https://github.com/flor14/r_inta/blob/master/CursoR_parte4_INTA_2019.pdf) ciencia reproducible y buenas prácticas en la escritura de código
 
