@@ -72,7 +72,8 @@ c(1:5, 10.5, "next")
 vector <- c(1:5, 10.5, "next")
 as.numeric(vector)
 
-# que ocurre? Esto podria pasarme cuando leo un dataset
-# es importante porque puede afectar el tipo de datos en 
-# las columnas de mi dataset.
+# que ocurre? Como los vectores forman dataframes,
+# es importante entender esta Warning! porque puede afectar 
+# el tipo de datos en las columnas de mi dataset y
+# al querer usar una funcion no lograr que anden.
 # Ejemplo usando base de datos "muestreo dic 2012" 
