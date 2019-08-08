@@ -37,7 +37,7 @@ _Dra. Maria Florencia D'Andrea - [Instituto de Recursos Biológicos.](https://in
 #### Filminas
 _en breve_
 
-[parte 1]() r y rstudio - paquetes - tidyverse - dataframe
+[parte 1]("https://github.com/flor14/r_inta/blob/master/CursoR_parte1_INTA_2019.pdf?raw=TRUE") r y rstudio - paquetes - tidyverse - dataframe
 
 [parte 2]() ordenamiento de datos
 
