@@ -35,17 +35,24 @@ _Dra. Maria Florencia D'Andrea - [Instituto de Recursos Biológicos.](https://in
  Para una mejor experiencia sugerimos acercarse con una computadora personal con R y R-Studio instalados (pero esto no es excluyente). Información en este [Link](https://github.com/pachamaltese/tutoriales/blob/master/2019-04-24-instalar-r.md) para distintos sistemas operativos.
  
 #### Filminas
-_en breve_
 
-[parte 1](https://github.com/flor14/r_inta/blob/master/CursoR_parte1_INTA_2019.pdf?raw=TRUE) r y rstudio - paquetes - tidyverse - dataframe
+[parte 1](https://github.com/flor14/r_inta/blob/master/CursoR_parte1_INTA_2019.pdf?raw=TRUE) r y rstudio - paquetes - tidyverse - importar archivos
+
+[Código parte 1](https://github.com/flor14/r_inta/blob/master/R_INTA_LC1_2019.R)
 
 [parte 2](https://github.com/flor14/r_inta/blob/master/CursoR_parte2_INTA_2019.pdf?raw=TRUE) ordenamiento de datos
 
+[Código parte 2](https://github.com/flor14/r_inta/blob/master/R_INTA_LC2_2019.R)
+
 [parte 3](https://github.com/flor14/r_inta/blob/master/CursoR_parte3_INTA_2019_bis.pdf?raw=TRUE) visualización de datos y reportes
 
-[reporte]() encuesta CNIA
+[Código parte 3 (reporte RMarkdown)](https://github.com/flor14/r_inta/blob/master/R_INTA_LC3_2019.R) encuesta CNIA
 
-[parte 4](https://github.com/flor14/r_inta/blob/master/CursoR_parte4_INTA_2019.pdf?raw=TRUE) ciencia reproducible y buenas prácticas en la escritura de código
+[Código parte 4](https://github.com/flor14/r_inta/blob/master/R_INTA_LC4_2019.R?raw=TRUE) encuesta CNIA 
+
+[parte 4](https://github.com/flor14/r_inta/blob/master/CursoR_parte4_INTA_2019.pdf) ciencia reproducible y buenas prácticas en la escritura de código
+
+
 
 <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.es_ES"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /> Las filminas y código asociado se encuentran bajo licencia <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.es_ES">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
 
