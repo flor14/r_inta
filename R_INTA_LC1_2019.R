@@ -45,15 +45,19 @@ library(dplyr)
 # code preview de la pestaña que aparece cuando quiero importar desde
 # RStudio
 
-# ventaja de escribir el código:queda registrada la ubicacion del archivo
-# puedo subir muchos archivos
+# ventaja de escribir el código: 
+# a - queda registrada la ubicacion del archivo
+# b - puedo subir muchos archivos
 
 # 7- Generar una dataframe en R con 
 data.frame()
 
-# Uso de View(). Guardarlo en el Environment
-# cuidado al elegir el nombre
-# 8- Uso de la ayuda. Introduccion al uso de vectores
+# Uso de View(). Asignarle un nombre y guardar en el Environment
+
+datos <- data.frame(x = c(1, 4, 5), y = c(9, 2, 6))
+View(datos)
+
+# 8- Uso de la ayuda. ¿Qué son los vectores que conforman al data.frame?
 
 ?c()
 
