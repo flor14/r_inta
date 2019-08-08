@@ -11,10 +11,11 @@
 
 # a la izq arriba el editor (uso de # para silenciar una linea)
 # a la derecha arriba, Environment (donde puedo ver lo que 
-# guardo cuando asignó una variable)
+# guardo cuando asigno una variable)
 # a la derecha abajo puedo ver los paquetes instalados ("Packages"),
 # la ayuda ("Help"), la pestaña para visualizar gráficos ("Plots"),
-# visualizas los archivos que hay en la carpeta en ("Files")
+# y puedo visualizar los archivos que hay en la carpeta del proyecto 
+# en ("Files")
 
 # 2- Abrir un proyecto
 
