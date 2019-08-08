@@ -3,7 +3,7 @@
 # 1- Explicar RStudio
 
 # Tiene 4 paneles,
-# a la izq abajo la consola de R (corro código con control + Enter)
+# a la izq abajo la consola de R (corro cÃ³digo con control + Enter)
 # por ejemplo:
 
 # suma
@@ -11,25 +11,25 @@
 
 # a la izq arriba el editor (uso de # para silenciar una linea)
 # a la derecha arriba, Environment (donde puedo ver lo que 
-# guardo cuando asignó una variable)
+# guardo cuando asignÃ³ una variable)
 # a la derecha abajo puedo ver los paquetes instalados ("Packages"),
-# la ayuda ("Help"), la pestaña para visualizar gráficos ("Plots"),
+# la ayuda ("Help"), la pestaÃ±a para visualizar grÃ¡ficos ("Plots"),
 # visualizas los archivos que hay en la carpeta en ("Files")
 
 # 2- Abrir un proyecto
 
-# Ventajas: 1 - Pestaña "files" me permite ver los archivos de la 
+# Ventajas: 1 - PestaÃ±a "files" me permite ver los archivos de la 
 # carpeta desde RStudio
 # 2 - Todo se guarda en la misma carpeta
 # 3 - Uso ubicaciones relativas de los archivos. Me permite poder correr
-# el código cuando llevo la carpeta de un lugar a otro
+# el cÃ³digo cuando llevo la carpeta de un lugar a otro
 # 4 - Parte derecha superior de RStudio tiene un menu desplegable que me 
 # permite cambiar de proyecto o cerrarlo 
 
 
 # 3- Abro un script y lo guardo
 # FILE > NEW FILE > R SCRIPT
-# Muestro que el codigo se puede guardar y que se ve en la pestaña "File"
+# Muestro que el codigo se puede guardar y que se ve en la pestaÃ±a "File"
 # Asigno una variable
 
 suma <- 2+2
@@ -41,11 +41,11 @@ library(dplyr)
 
 
 # 5- importar archivos de Excel con RStudio ("Import Dataset")
-# 6- importar archivos de Excel con R (como código). Ver panel
-# code preview de la pestaña que aparece cuando quiero importar desde
+# 6- importar archivos de Excel con R (como cÃ³digo). Ver panel
+# code preview de la pestaÃ±a que aparece cuando quiero importar desde
 # RStudio
 
-# ventaja de escribir el código:queda registrada la ubicacion del archivo
+# ventaja de escribir el cÃ³digo:queda registrada la ubicacion del archivo
 # puedo subir muchos archivos
 
 # 7- Generar una dataframe en R con 
@@ -68,5 +68,5 @@ vector <- c(1:5, 10.5, "next")
 as.numeric(vector)
 
 # que ocurre? Esto podria pasarme cuando leo un dataset
-# es importante porque puede afectar lo que pasa cuando quiero
-# ejemplo usando base de datos "muestreo dic 2012" 
+# es importante porque puede afectar el tipo de datos en 
+# las columnas de mi dataset ejemplo usando base de datos "muestreo dic 2012" 
